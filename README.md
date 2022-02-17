@@ -17,7 +17,7 @@ A curated list of deep learning material on Seismic Images. Inspired by awesome 
   - A. U. Waldeland, A. C. Jensen, L. Gelius and A. H. S. Solberg. *The Leading Edge 37 - 2018*
 
 
- - Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks.
+- Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks.
   [[pdf]](https://arxiv.org/abs/1812.01101) 
   [[code]](https://github.com/mallerao/Seismic_CNN_Saltbody)
   - Yu Zeng, Kebei Jiang, Jie Chen. *ICISDM 2019*
