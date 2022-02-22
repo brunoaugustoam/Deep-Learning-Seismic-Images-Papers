@@ -1,9 +1,9 @@
 # Deep Learning on Seismic Images
-A curated list of deep learning material on Seismic Images. Inspired by awesome curated lists. 
+A curated list of deep learning material on Seismic Images. Inspired by awesome curated lists: [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning), [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) , [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers). 
 
 # Contributing
 
-Please help contribute this list by contacting [[me]](https://www.linkedin.com/in/bruno-augusto-alem%C3%A3o-monteiro-4a9056113/) or add [[pull request]](https://github.com/brunoaugustoam/deep_seismic_images_papers/pulls)
+Please help contribute this list by contacting [me](https://www.linkedin.com/in/bruno-augusto-alem%C3%A3o-monteiro-4a9056113/) or add [pull request](https://github.com/brunoaugustoam/deep_seismic_images_papers/pulls)
 
 Markdown format:
 ```
