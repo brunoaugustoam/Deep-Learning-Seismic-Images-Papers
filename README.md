@@ -29,7 +29,7 @@ A curated list of deep learning material on Seismic Images. Inspired by awesome 
 
 - CNN Prediction Enhancement by Post-Processing for Hydrocarbon Detection in Seismic Images.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9131784) 
-  - JOSÉ FABRÍCIO L. SOUZA, GABRIEL L. SANTANA, LEONARDO V. BATISTA, GUSTAVO P. OLIVEIRA, EDUARDO ROEMERS-OLIVEIRA, AND MOISÉS D. SANTOS. *IEEE Acess Volume: 8*
+  - José Fabrício L. Souza, Gabriel L. Santana, Leonardo V. Batista, Gustavo P. Oliveira, Eduardo Roemers-Oliveira, And Moisés D. Santos. *IEEE Acess Volume: 8*
 
 - Seismic facies classification using supervised convolutional neural networks and semisupervised generative adversarial networks.
   [[pdf]](https://library.seg.org/doi/10.1190/geo2019-0627.1#:~:text=To%20overcome%20these%20challenges%2C%20we%20have%20developed%20a,situations%20with%20sufficient%20and%20limited%20well%20data%2C%20respectively. )
