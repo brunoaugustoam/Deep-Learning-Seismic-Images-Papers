@@ -37,23 +37,31 @@ Markdown format:
   [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12865)  
   - Haibin Di, Ghassan AlRegib. *Geophysical Prospecting, Volume 68, Issue 2, 2019*
 
-## Seismic Facies Segmentation
+## Seismic/Lithostratigraphic Facies Segmentation
+
+- Seismic facies classification using supervised convolutional neural networks and semisupervised generative adversarial networks.
+  [[pdf]](https://library.seg.org/doi/10.1190/geo2019-0627.1#:~:text=To%20overcome%20these%20challenges%2C%20we%20have%20developed%20a,situations%20with%20sufficient%20and%20limited%20well%20data%2C%20respectively. )
+  - Mingliang Liu, Michael Jervis, Weichang Li, and Philippe Nivlet. *GEOPHYSICS Volume 85, Issue 4, 2020*
+
+- Unsupervised seismic facies classification using deep convolutional autoencoder.
+  [[pdf]](https://arxiv.org/abs/2008.01995)
+  - Vladimir Puzyrev and Chris Elders. *EAGE/AAPG Digital Subsurface for Asia Pacific Conference 2020*
+
+- CNN Prediction Enhancement by Post-Processing for Hydrocarbon Detection in Seismic Images.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9131784) 
+  - José Fabrício L. Souza, Gabriel L. Santana, Leonardo V. Batista, Gustavo P. Oliveira, Eduardo Roemers-Oliveira, and Moisés D. Santos. *IEEE Acess Volume: 8, 2020*
+
+- Seismic Facies Classification Using Different Deep Convolutional Neural Networks
+  [[pdf]](https://library.seg.org/doi/10.1190/segam2018-2997085.1)
+  - Tao Zhao. *SEG Technical Program Expanded Abstracts 2018*
 
 - Seismic Facies Segmentation Using Deep Learning*. 
   [[pdf]](https://www.searchanddiscovery.com/pdfz/documents/2018/42286chevitarese/ndx_chevitarese.pdf.html) 
   - Daniel Chevitarese, Daniela Szwarcman, Reinaldo Mozart D. Silva and Emilio Vital Brazil. *Search and Discovery Article #42286 (2018)*
 
-- CNN Prediction Enhancement by Post-Processing for Hydrocarbon Detection in Seismic Images.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9131784) 
-  - José Fabrício L. Souza, Gabriel L. Santana, Leonardo V. Batista, Gustavo P. Oliveira, Eduardo Roemers-Oliveira, And Moisés D. Santos. *IEEE Acess Volume: 8*
-
-- Seismic facies classification using supervised convolutional neural networks and semisupervised generative adversarial networks.
-  [[pdf]](https://library.seg.org/doi/10.1190/geo2019-0627.1#:~:text=To%20overcome%20these%20challenges%2C%20we%20have%20developed%20a,situations%20with%20sufficient%20and%20limited%20well%20data%2C%20respectively. )
-  - Mingliang Liu, Michael Jervis, Weichang Li, and Philippe Nivlet. *GEOPHYSICS Volume 85, Issue 4*
-
 - Developing a seismic pattern interpretation network (SpiNet) for automated seismic interpretation
    [[pdf]](https://arxiv.org/pdf/1810.08517.pdf)
-  - Haibin Di *arXiv, 2018*
+  - Haibin Di. *arXiv, 2018*
 
 ## Structure Delimitation
 
