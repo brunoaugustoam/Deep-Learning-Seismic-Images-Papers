@@ -33,6 +33,10 @@ Markdown format:
   [[code]](https://github.com/mallerao/Seismic_CNN_Saltbody)
   - Yu Zeng, Kebei Jiang, Jie Chen. *ICISDM 2019*
 
+- A comparison of seismic saltbody interpretation via neural networks at sample- and pattern-levels
+  [[pdf]](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12865)  
+  - Haibin Di, Ghassan AlRegib. *Geophysical Prospecting, Volume 68, Issue 2, 2019*
+
 ## Seismic Facies Segmentation
 
 - Seismic Facies Segmentation Using Deep Learning*. 
@@ -46,6 +50,10 @@ Markdown format:
 - Seismic facies classification using supervised convolutional neural networks and semisupervised generative adversarial networks.
   [[pdf]](https://library.seg.org/doi/10.1190/geo2019-0627.1#:~:text=To%20overcome%20these%20challenges%2C%20we%20have%20developed%20a,situations%20with%20sufficient%20and%20limited%20well%20data%2C%20respectively. )
   - Mingliang Liu, Michael Jervis, Weichang Li, and Philippe Nivlet. *GEOPHYSICS Volume 85, Issue 4*
+
+- Developing a seismic pattern interpretation network (SpiNet) for automated seismic interpretation
+   [[pdf]](https://arxiv.org/pdf/1810.08517.pdf)
+  - Haibin Di *arXiv, 2018*
 
 ## Structure Delimitation
 
@@ -67,3 +75,9 @@ Markdown format:
 - Self-supervised delineation of geologic structures using orthogonal latent space projection.
   [[pdf]](https://arxiv.org/abs/2108.09605)
   - Oluwaseun Joseph Aribido, Ghassan AlRegib, Yazeed Alaudah. *GEOPHYSICS Volume 86, Issue 6*
+ 
+ - Self-Supervised Annotation of Seismic Images Using Latent Space Factorization.
+  [[pdf]](https://arxiv.org/abs/2009.04631)
+  [[code]](https://github.com/olivesgatech/Latent-Factorization)
+  - Oluwaseun Aribido, Ghassan AlRegib and Mohamed Deriche. *IEEE International Conference on Image Processing (ICIP), 2020* 
+
