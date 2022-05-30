@@ -85,7 +85,7 @@ Markdown format:
   - Oluwaseun Joseph Aribido, Ghassan AlRegib, Yazeed Alaudah. *GEOPHYSICS Volume 86, Issue 6*
  
  - Self-Supervised Annotation of Seismic Images Using Latent Space Factorization.
-  [[pdf]](https://arxiv.org/abs/2009.04631)
-  [[code]](https://github.com/olivesgatech/Latent-Factorization)
-  - Oluwaseun Aribido, Ghassan AlRegib and Mohamed Deriche. *IEEE International Conference on Image Processing (ICIP), 2020* 
+    [[pdf]](https://arxiv.org/abs/2009.04631)
+    [[code]](https://github.com/olivesgatech/Latent-Factorization)
+    - Oluwaseun Aribido, Ghassan AlRegib and Mohamed Deriche. *IEEE International Conference on Image Processing (ICIP), 2020* 
 
