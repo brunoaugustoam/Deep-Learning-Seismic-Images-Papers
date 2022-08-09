@@ -80,6 +80,10 @@ Markdown format:
 
 ## Self-Supervised Learning for Geological Features 
 
+- Self-Supervised Learning for Seismic Image Segmentation From Few-Labeled Samples. 
+  [[pdf]](https://ieeexplore.ieee.org/document/9837909)
+  - Bruno A. A. Monteiro, Hugo Oliveira, Jefersson A. dos Santos
+
 - Self-supervised delineation of geologic structures using orthogonal latent space projection.
   [[pdf]](https://arxiv.org/abs/2108.09605)
   - Oluwaseun Joseph Aribido, Ghassan AlRegib, Yazeed Alaudah. *GEOPHYSICS Volume 86, Issue 6*
