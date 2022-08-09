@@ -82,7 +82,7 @@ Markdown format:
 
 - Self-Supervised Learning for Seismic Image Segmentation From Few-Labeled Samples. 
   [[pdf]](https://ieeexplore.ieee.org/document/9837909)
-  - Bruno A. A. Monteiro, Hugo Oliveira, Jefersson A. dos Santos
+  - Bruno A. A. Monteiro, Hugo Oliveira, Jefersson A. dos Santos. * IEEE Geoscience and Remote Sensing Letters,  Volume 19 - 2022 *
 
 - Self-supervised delineation of geologic structures using orthogonal latent space projection.
   [[pdf]](https://arxiv.org/abs/2108.09605)
