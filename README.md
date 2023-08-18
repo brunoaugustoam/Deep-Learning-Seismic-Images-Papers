@@ -75,7 +75,7 @@ Markdown format:
   [[paper]](https://ieeexplore.ieee.org/document/8859617) 
   - Yuxi Zhang, Yang Liu , Haoran Zhang, and Hao Xue. *IEEE GEOSCIENCE AND REMOTE SENSING LETTERS, 2019*
  
-- Improved Automating Seismic Facies Analysis Using Deep Dilated Attention Autoencoders. 
+- Improved Automating Seismic Facies Analysis Using Deep Dilated Attention Autoencoders
   [[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WiCV/Wang_Improved_Automating_Seismic_Facies_Analysis_Using_Deep_Dilated_Attention_Autoencoders_CVPRW_2019_paper.pdf) 
   - Zengyan Wang, Fangyu Li, Thiab R. Taha, Hamid R. Arabnia. *CVPR, 2019*
 
