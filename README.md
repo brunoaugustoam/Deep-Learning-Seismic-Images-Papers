@@ -105,7 +105,7 @@ Markdown format:
   -  H Zhang, T Chen, Y Liu, Y Zhang, J Liu. *Geophysics , Volume 86, Issue 1, Jan 2021*
 
 - Seismic Stratum Segmentation Using an Encoder–Decoder Convolutional Neural Network. 
-  [[paper]](Seismic Stratum Segmentation Using an Encoder–Decoder Convolutional Neural Network) 
+  [[paper]](https://link.springer.com/article/10.1007/s11004-020-09916-8) 
   - Detao Wang & Guoxiong Chen . *Mathematical Geosciences, 2021*
  
 - ADDCNN: An attention-based deep dilated convolutional neural network for seismic facies analysis with interpretable spatial–spectral maps. 
