@@ -109,7 +109,7 @@ Markdown format:
   - Detao Wang & Guoxiong Chen . *Mathematical Geosciences, 2021*
  
 - ADDCNN: An attention-based deep dilated convolutional neural network for seismic facies analysis with interpretable spatial–spectral maps. 
-  [[paper]](IEEE Transactions on Geoscience and Remote Sensing) 
+  [[paper]](https://ieeexplore.ieee.org/document/9115720) 
   - Fangyu Li; Huailai Zhou; Zengyan Wang; Xinming Wu. *IEEE Transactions on Geoscience and Remote Sensing, 2020*
  
 - Seismic Facies Segmentation Using Atrous Convolutional-LSTM Network. 
