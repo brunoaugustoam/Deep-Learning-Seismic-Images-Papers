@@ -23,10 +23,13 @@ Markdown format:
 
 ## Salt Classification and Segmentation
 
+### 2018
 - Convolutional neural networks for automated seismic interpretation. 
   [[paper]](https://library.seg.org/doi/abs/10.1190/tle37070529.1) 
   [[code]](https://github.com/waldeland/CNN-for-ASI)
   - A. U. Waldeland, A. C. Jensen, L. Gelius and A. H. S. Solberg. *The Leading Edge 37 - 2018*
+
+### 2019
 
 - Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks.
   [[paper]](https://arxiv.org/abs/1812.01101) 
@@ -47,6 +50,8 @@ Markdown format:
 
 ## Seismic/Lithostratigraphic Facies Segmentation
 
+### 2018
+
 - Seismic Facies Classification Using Different Deep Convolutional Neural Networks
   [[paper]](https://library.seg.org/doi/10.1190/segam2018-2997085.1)
   - Tao Zhao. *SEG Technical Program Expanded Abstracts 2018*
@@ -63,6 +68,8 @@ Markdown format:
   [[paper]](https://library.seg.org/doi/abs/10.1190/geo2015-0539.1?journalCode=gpysa7) 
   - Jinlin Liu, Xiaofeng Dai, Lideng Gan, Lei Liu, Wenkai Lu. *Geophysics, v. 83, n. 2. 2018*
 
+### 2019
+
 - Netherlands dataset: A new public dataset for machine learning in seismic interpretation. 
   [[paper]](https://arxiv.org/abs/1904.00770) 
   - Reinaldo Mozart Silva, Lais Baroni, Rodrigo S. Ferreira, Daniel Civitrarese, Daniela Szwarcman. *arXiv:1904.00770. 2019*
@@ -78,6 +85,8 @@ Markdown format:
 - Improved Automating Seismic Facies Analysis Using Deep Dilated Attention Autoencoders
   [[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/WiCV/Wang_Improved_Automating_Seismic_Facies_Analysis_Using_Deep_Dilated_Attention_Autoencoders_CVPRW_2019_paper.pdf) 
   - Zengyan Wang, Fangyu Li, Thiab R. Taha, Hamid R. Arabnia. *CVPR, 2019*
+ 
+### 2020
 
 - Efficient 3D Semantic Segmentation of SeismicImages using Orthogonal Planes 2D ConvolutionalNeural Networks. 
   [[paper]](https://ieeexplore.ieee.org/document/9206661) 
@@ -100,6 +109,12 @@ Markdown format:
     [[code]](https://github.com/olivesgatech/Latent-Factorization)
     - Oluwaseun Aribido, Ghassan AlRegib and Mohamed Deriche. *IEEE International Conference on Image Processing (ICIP), 2020* 
 
+- ADDCNN: An attention-based deep dilated convolutional neural network for seismic facies analysis with interpretable spatial–spectral maps. 
+  [[paper]](https://ieeexplore.ieee.org/document/9115720) 
+  - Fangyu Li; Huailai Zhou; Zengyan Wang; Xinming Wu. *IEEE Transactions on Geoscience and Remote Sensing, 2020*
+ 
+### 2021
+
 - Automatic seismic facies interpretation using supervised deep learning. 
   [[paper]](https://library.seg.org/doi/abs/10.1190/geo2019-0425.1?journalCode=gpysa7) 
   -  H Zhang, T Chen, Y Liu, Y Zhang, J Liu. *Geophysics , Volume 86, Issue 1, Jan 2021*
@@ -108,13 +123,11 @@ Markdown format:
   [[paper]](https://link.springer.com/article/10.1007/s11004-020-09916-8) 
   - Detao Wang & Guoxiong Chen . *Mathematical Geosciences, 2021*
  
-- ADDCNN: An attention-based deep dilated convolutional neural network for seismic facies analysis with interpretable spatial–spectral maps. 
-  [[paper]](https://ieeexplore.ieee.org/document/9115720) 
-  - Fangyu Li; Huailai Zhou; Zengyan Wang; Xinming Wu. *IEEE Transactions on Geoscience and Remote Sensing, 2020*
- 
 - Seismic Facies Segmentation Using Atrous Convolutional-LSTM Network. 
   [[paper]](https://cilamce.com.br/anais/arearestrita/apresentacoes/252/10005.pdf) 
   - Maykol J. Campos Trinidad, Smith W. Arauco Canchumuni,  Raul Queiroz Feitosa, Marco Aurelio C. Pacheco. *CILAMCE/PANACM. 2021*
+
+### 2022
 
 - Seismic Facies Segmentation Using Ensemble of Convolutional Neural Networks. 
   [[paper]](https://www.hindawi.com/journals/wcmc/2022/7762543/) 
@@ -152,6 +165,8 @@ Markdown format:
 - Seismic facies analysis method based on spectral clustering machine learning. 
   [[paper]](https://library.seg.org/doi/abs/10.1190/image2022-3739386.1) 
   - Sang, Kaiheng, Nanying Lan, and Fanchang Zhang. *Second International Meeting for Applied Geoscience & Energy. 2022*
+
+ ### 2023
  
 - Unsupervised contrastive learning for seismic facies characterization. 
   [[paper]](https://library.seg.org/doi/10.1190/geo2022-0148.1) 
@@ -164,8 +179,6 @@ Markdown format:
 - Few-shot learning for seismic facies segmentation via prototype learning. 
   [[paper]](https://library.seg.org/doi/abs/10.1190/geo2022-0281.1) 
   - Zhao, Yunhe and Chai, Bianfang and Shuo, Liangxun and Li, Zenghao and Wu, Heng and Wang, Tianyi. *GEOPHYSICS. Volume 88, Issue 3. 2023*
- 
-
 
 ## Structure Delimitation
 
