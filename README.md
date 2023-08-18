@@ -67,7 +67,6 @@ Markdown format:
   [[paper]](https://arxiv.org/abs/1904.00770) 
   - Reinaldo Mozart Silva, Lais Baroni, Rodrigo S. Ferreira, Daniel Civitrarese, Daniela Szwarcman. *arXiv:1904.00770. 2019*
  
-
 - A Machine Learning Benchmark for Facies Classification. 
   [[paper]](https://arxiv.org/abs/1901.07659) 
   - Yazeed Alaudah and  Patrycja Micha lowicz and Motaz Alfarraj and Ghassan AlRegib. *Interpretation, 2019*
@@ -83,10 +82,6 @@ Markdown format:
 - Efficient 3D Semantic Segmentation of SeismicImages using Orthogonal Planes 2D ConvolutionalNeural Networks. 
   [[paper]](https://ieeexplore.ieee.org/document/9206661) 
   - Arthur Bridi Guazzelli, Mauro Roisenberg, and Bruno B. Rodrigues. *International Joint Conference on Neural Networks, 2020*
- 
-- . 
-  [[paper]]() 
-  - . **
 
 - Seismic facies classification using supervised convolutional neural networks and semisupervised generative adversarial networks.
   [[paper]](https://library.seg.org/doi/10.1190/geo2019-0627.1#:~:text=To%20overcome%20these%20challenges%2C%20we%20have%20developed%20a,situations%20with%20sufficient%20and%20limited%20well%20data%2C%20respectively. )
@@ -100,10 +95,76 @@ Markdown format:
   [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9131784) 
   - José Fabrício L. Souza, Gabriel L. Santana, Leonardo V. Batista, Gustavo P. Oliveira, Eduardo Roemers-Oliveira, and Moisés D. Santos. *IEEE Acess Volume: 8, 2020*
 
+- Self-Supervised Annotation of Seismic Images Using Latent Space Factorization.
+    [[paper]](https://arxiv.org/abs/2009.04631)
+    [[code]](https://github.com/olivesgatech/Latent-Factorization)
+    - Oluwaseun Aribido, Ghassan AlRegib and Mohamed Deriche. *IEEE International Conference on Image Processing (ICIP), 2020* 
 
+- Automatic seismic facies interpretation using supervised deep learning. 
+  [[paper]](https://library.seg.org/doi/abs/10.1190/geo2019-0425.1?journalCode=gpysa7) 
+  -  H Zhang, T Chen, Y Liu, Y Zhang, J Liu. *Geophysics , Volume 86, Issue 1, Jan 2021*
 
+- Seismic Stratum Segmentation Using an Encoder–Decoder Convolutional Neural Network. 
+  [[paper]](Seismic Stratum Segmentation Using an Encoder–Decoder Convolutional Neural Network) 
+  - Detao Wang & Guoxiong Chen . *Mathematical Geosciences, 2021*
+ 
+- ADDCNN: An attention-based deep dilated convolutional neural network for seismic facies analysis with interpretable spatial–spectral maps. 
+  [[paper]](IEEE Transactions on Geoscience and Remote Sensing) 
+  - Fangyu Li; Huailai Zhou; Zengyan Wang; Xinming Wu. *IEEE Transactions on Geoscience and Remote Sensing, 2020*
+ 
+- Seismic Facies Segmentation Using Atrous Convolutional-LSTM Network. 
+  [[paper]](https://cilamce.com.br/anais/arearestrita/apresentacoes/252/10005.pdf) 
+  - Maykol J. Campos Trinidad, Smith W. Arauco Canchumuni,  Raul Queiroz Feitosa, Marco Aurelio C. Pacheco. *CILAMCE/PANACM. 2021*
 
+- Seismic Facies Segmentation Using Ensemble of Convolutional Neural Networks. 
+  [[paper]](https://www.hindawi.com/journals/wcmc/2022/7762543/) 
+  - Bilal Abid, Bilal Muhammad Khan and Rashida Ali Memon. *Wireless Communications and Mobile Computing, 2022*
 
+- A Stronger Baseline for Seismic Facies Classification With Less Data. 
+  [[paper]](https://ieeexplore.ieee.org/document/9766041/) 
+  - Chen, Xiaoyu and Zou, Qi and Xu, Xixia and Wang, Nan. *IEEE Transactions on Geoscience and Remote Sensing. 2022*
+
+- Self-Supervised Learning for Seismic Image Segmentation From Few-Labeled Samples. 
+  [[paper]](https://ieeexplore.ieee.org/document/9837909)
+  [[code]](https://github.com/brunoaugustoam/SSL_Seismic_Images)
+  - Bruno A. A. Monteiro, Hugo Oliveira, Jefersson A. dos Santos. *IEEE Geoscience and Remote Sensing Letters,  Volume 19 - 2022*
+ 
+- Deep learning for automated seismic facies classification. 
+  [[paper]](https://library.seg.org/doi/abs/10.1190/INT-2021-0140.1?journalCode=inteio) 
+  - Ekaterina Tolstaya and Anton Egorov. * Interpretation (AAPG/SEG). 2022*
+ 
+- Incremental semi-supervised learning for intelligent seismic facies identification. 
+  [[paper]](https://link.springer.com/article/10.1007/s11770-022-0924-8) 
+  - He Su-Mei, Song Zhao-Hui, Zhang Meng-Ke, Yuan San-Yi & Wang Shang-Xu. *Applied Geophysics. 2022*
+ 
+- Identifying Geologic Facies Through Seismic Dataset-to-Dataset TransferLearning using Convolutional Neural Networks. 
+  [[paper]](http://cs230.stanford.edu/projects_fall_2021/reports/102744810.pdf) 
+  - Joseph Stitt and Adam Shugar and Rachael Wang. *Second International Meeting for Applied Geoscience & Energy . 2022*
+ 
+- CONSS: Contrastive Learning Approach for Semi-Supervised Seismic Facies Classification. 
+  [[paper]](https://arxiv.org/abs/2210.04776) 
+  - Kewen Li, Wenlong Liu, Yimin Dou, Zhifeng Xu, Hongjie Duan, Ruilin Jing. *arXiv:2210.04776, 2022*
+ 
+- Seismic Facies Analysis: A Deep Domain Adaptation Approach. 
+  [[paper]](https://arxiv.org/abs/2011.10510) 
+  - M. Quamer Nasim, Tannistha Maiti, Ayush Srivastava, Tarry Singh and JieMe. *IEEE Transactions on Geoscience and Remote Sensing. 2022*
+ 
+- Seismic facies analysis method based on spectral clustering machine learning. 
+  [[paper]](https://library.seg.org/doi/abs/10.1190/image2022-3739386.1) 
+  - Sang, Kaiheng, Nanying Lan, and Fanchang Zhang. *Second International Meeting for Applied Geoscience & Energy. 2022*
+ 
+- Unsupervised contrastive learning for seismic facies characterization. 
+  [[paper]](https://library.seg.org/doi/10.1190/geo2022-0148.1) 
+  - Li, Jintao; Wu, Xinming; Ye, Yueming; Yang, Cun; Hu, Zhanxuan; Sun, Xiaoming; Zhao, Tao. *Geophysics, v. 88, n. 1. 2023*
+ 
+- Semi-supervised semantic segmentation for seismic interpretation. 
+  [[paper]](https://library.seg.org/doi/abs/10.1190/geo2021-0365.1?journalCode=gpysa7) 
+  - Lijing Wang and  Frederic Joncour and  Pierre-Emmanuel Barrallon and  Thibault Harribey and  Laurent Castanie and  Sonia Yousfi and Sebastien Guillion. *GEOPHYSICSVolume 88, Issue 3. 2023*
+ 
+- Few-shot learning for seismic facies segmentation via prototype learning. 
+  [[paper]](https://library.seg.org/doi/abs/10.1190/geo2022-0281.1) 
+  - Zhao, Yunhe and Chai, Bianfang and Shuo, Liangxun and Li, Zenghao and Wu, Heng and Wang, Tianyi. *GEOPHYSICS. Volume 88, Issue 3. 2023*
+ 
 
 
 ## Structure Delimitation
@@ -120,20 +181,9 @@ Markdown format:
   [[paper]](https://www.researchgate.net/publication/335102980_Deep_learning_for_local_seismic_image_processing_Fault_detection_structure-oriented_smoothing_with_edge-preserving_and_slope_estimation_by_using_a_single_convolutional_neural_network)
   [[paper]](https://library.seg.org/doi/pdf/10.1190/segam2019-3215251.1?download=true)
   - Xinming Wu, Luming Liang, Yunzhi Shi, Zhicheng Geng, and Sergey Fomel. *SEG Technical Program Expanded Abstracts 2019*
-
-## Self-Supervised Learning for Geological Features 
-
-- Self-Supervised Learning for Seismic Image Segmentation From Few-Labeled Samples. 
-  [[paper]](https://ieeexplore.ieee.org/document/9837909)
-  [[code]](https://github.com/brunoaugustoam/SSL_Seismic_Images)
-  - Bruno A. A. Monteiro, Hugo Oliveira, Jefersson A. dos Santos. *IEEE Geoscience and Remote Sensing Letters,  Volume 19 - 2022*
-
+ 
 - Self-supervised delineation of geologic structures using orthogonal latent space projection.
   [[paper]](https://arxiv.org/abs/2108.09605)
   - Oluwaseun Joseph Aribido, Ghassan AlRegib, Yazeed Alaudah. *GEOPHYSICS Volume 86, Issue 6*
- 
- - Self-Supervised Annotation of Seismic Images Using Latent Space Factorization.
-    [[paper]](https://arxiv.org/abs/2009.04631)
-    [[code]](https://github.com/olivesgatech/Latent-Factorization)
-    - Oluwaseun Aribido, Ghassan AlRegib and Mohamed Deriche. *IEEE International Conference on Image Processing (ICIP), 2020* 
+
 
