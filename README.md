@@ -1,4 +1,4 @@
-# Deep Learning on Seismic Images
+# Deep Learning for Segmenting Seismic Images
 A curated list of deep learning material on Seismic Images. Inspired by awesome curated lists: [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning), [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) , [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers). 
 
 # Contributing
@@ -21,32 +21,6 @@ Markdown format:
   [[code]](https://github.com/thilowrona/seismic_deep_learning)
   - Thilo Wrona, Indranil Pan, Rebecca E. Bell, Robert L. Gawthorpe, Haakon Fossen, and Sascha Brune. *The Leading Edge 40 - 2021*
 
-## Salt Classification and Segmentation
-
-### 2018
-- Convolutional neural networks for automated seismic interpretation. 
-  [[paper]](https://library.seg.org/doi/abs/10.1190/tle37070529.1) 
-  [[code]](https://github.com/waldeland/CNN-for-ASI)
-  - A. U. Waldeland, A. C. Jensen, L. Gelius and A. H. S. Solberg. *The Leading Edge 37 - 2018*
-
-### 2019
-
-- Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks.
-  [[paper]](https://arxiv.org/abs/1812.01101) 
-  [[code]](https://github.com/mallerao/Seismic_CNN_Saltbody)
-  - Yu Zeng, Kebei Jiang, Jie Chen. *ICISDM 2019*
-
-- A comparison of seismic saltbody interpretation via neural networks at sample- and pattern-levels
-  [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12865)  
-  - Haibin Di, Ghassan AlRegib. *Geophysical Prospecting, Volume 68, Issue 2, 2019*
- 
-- Bayesian deep learning for seismic facies classification and its uncertainty estimation
-  [[paper]](https://library.seg.org/doi/abs/10.1190/segam2019-3216870.1)  
-  - Mukhopadhyay, Pradip, and Subhashis Mallick. *SEG Technical Program Expanded Abstracts, 2019*
-
-- SaltSeg: Automatic 3D salt segmentation using a deep convolutional neural network
-  [[paper]](https://library.seg.org/doi/abs/10.1190/int-2018-0235.1)  
-  - Yunzhi Shi, Xinming Wu, and Sergey Fomel. *Interpretation, Volume 7,Issue 3,Aug 2019*
 
 ## Seismic/Lithostratigraphic Facies Segmentation
 
@@ -180,6 +154,9 @@ Markdown format:
   [[paper]](https://library.seg.org/doi/abs/10.1190/geo2022-0281.1) 
   - Zhao, Yunhe and Chai, Bianfang and Shuo, Liangxun and Li, Zenghao and Wu, Heng and Wang, Tianyi. *GEOPHYSICS. Volume 88, Issue 3. 2023*
 
+
+# Others: need an update 
+
 ## Structure Delimitation
 
 - Fault and horizon automatic interpretation by CNN: a case study of coalfield.
@@ -199,4 +176,30 @@ Markdown format:
   [[paper]](https://arxiv.org/abs/2108.09605)
   - Oluwaseun Joseph Aribido, Ghassan AlRegib, Yazeed Alaudah. *GEOPHYSICS Volume 86, Issue 6*
 
+## Salt Classification and Segmentation
+
+### 2018
+- Convolutional neural networks for automated seismic interpretation. 
+  [[paper]](https://library.seg.org/doi/abs/10.1190/tle37070529.1) 
+  [[code]](https://github.com/waldeland/CNN-for-ASI)
+  - A. U. Waldeland, A. C. Jensen, L. Gelius and A. H. S. Solberg. *The Leading Edge 37 - 2018*
+
+### 2019
+
+- Automatic Seismic Salt Interpretation with Deep Convolutional Neural Networks.
+  [[paper]](https://arxiv.org/abs/1812.01101) 
+  [[code]](https://github.com/mallerao/Seismic_CNN_Saltbody)
+  - Yu Zeng, Kebei Jiang, Jie Chen. *ICISDM 2019*
+
+- A comparison of seismic saltbody interpretation via neural networks at sample- and pattern-levels
+  [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2478.12865)  
+  - Haibin Di, Ghassan AlRegib. *Geophysical Prospecting, Volume 68, Issue 2, 2019*
+ 
+- Bayesian deep learning for seismic facies classification and its uncertainty estimation
+  [[paper]](https://library.seg.org/doi/abs/10.1190/segam2019-3216870.1)  
+  - Mukhopadhyay, Pradip, and Subhashis Mallick. *SEG Technical Program Expanded Abstracts, 2019*
+
+- SaltSeg: Automatic 3D salt segmentation using a deep convolutional neural network
+  [[paper]](https://library.seg.org/doi/abs/10.1190/int-2018-0235.1)  
+  - Yunzhi Shi, Xinming Wu, and Sergey Fomel. *Interpretation, Volume 7,Issue 3,Aug 2019*
 
